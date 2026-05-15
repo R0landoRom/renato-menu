@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "nombre": "Aji de Gallina",
+    "precio": 13,
+    "imagen": "/img/hamburguesa.webp"
+  },
+
+  {
+    "id": 2,
+    "nombre": "arroz verde",
+    "precio": 15,
+    "imagen": "/img/arrosverde.webp"
+  }
+]
